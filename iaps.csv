@@ -1,0 +1,45 @@
+Reference Name,Product ID,Apple ID,"Type (consumable -1, non-consumable -2)","IAP Price, USD",IAP Price-TIER,IAP name-EN,IAP description-EN
+Bee Sting,hitnrun.pv.002.beesting,,2,"0,99",1,Bee Sting,Bee Sting Vehicle
+Fire Starter,hitnrun.pv.003.firestarter,,2,"1,99",2,Fire Starter,Fire Starter Vehicle
+Chill Mobil,hitnrun.pv.004.chillmobil,,2,"0,99",1,Chill Mobil,Chill Mobil Vehicle
+Raging Bull,hitnrun.pv.005.ragingbull,,2,"0,99",1,Raging Bull,Raging Bull Vehicle
+Cool Breeze,hitnrun.pv.006.coolbreeze,,2,"0,99",1,Cool Breeze,Cool Breeze Vehicle
+Rockel Fuel,hitnrun.pv.007.rocketfuel,,2,"1,99",2,Rockel Fuel,Rockel Fuel Vehicle
+Heavy Duty,hitnrun.pv.008.heavyduty,,2,"1,99",2,Heavy Duty,Heavy Duty Vehicle
+Super Dolphin,hitnrun.pv.009.superdolphin,,2,"0,99",1,Super Dolphin,Super Dolphin Vehicle
+Big Daddy,hitnrun.pv.010.bigdaddy,,2,"0,99",1,Big Daddy,Big Daddy Vehicle
+Crazy Horse,hitnrun.pv.011.crazyhorse,,2,"2,99",3,Crazy Horse,Crazy Horse Vehicle
+Sergeant Robert,hitnrun.pv.012.sergeantrobert,,2,"0,99",1,Sergeant Robert,Sergeant Robert Vehicle
+Bored Noodle,hitnrun.pv.013.borednoodle,,2,"0,99",1,Bored Noodle,Bored Noodle Vehicle
+Rod Heater,hitnrun.pv.014.rodheater,,2,"2,99",3,Rod Heater,Rod Heater Vehicle
+Power Danger,hitnrun.pv.015.powerdanger,,2,"1,99",2,Power Danger,Power Danger Vehicle
+Sweet Piglet,hitnrun.pv.016.sweetpiglet,,2,"2,99",3,Sweet Piglet,Sweet Piglet Vehicle
+Death Wheels,hitnrun.pv.017.deathwheels,,2,"0,99",1,Death Wheels,Death Wheels Vehicle
+Free Spirit,hitnrun.pv.018.freespirit,,2,"0,99",1,Free Spirit,Free Spirit Vehicle
+Mega Lifter,hitnrun.pv.019.megalifter,,2,"0,99",1,Mega Lifter,Mega Lifter Vehicle
+Pull Buddy,hitnrun.pv.020.pullbuddy,,2,"0,99",1,Pull Buddy,Pull Buddy Vehicle
+Cowboy Dream,hitnrun.pv.021.cowboydream,,2,"1,99",2,Cowboy Dream,Cowboy Dream Vehicle
+Yellow Kid,hitnrun.pv.022.yellowkid,,2,"1,99",2,Yellow Kid,Yellow Kid Vehicle
+Winner Bagel,hitnrun.pv.023.winnerbagel,,2,"1,99",2,Winner Bagel,Winner Bagel Vehicle
+Water Rider,hitnrun.pv.024.waterrider,,2,"1,99",2,Water Rider,Water Rider Vehicle
+Grand Daddy,hitnrun.pv.025.granddaddy,,2,"1,99",2,Grand Daddy,Grand Daddy Vehicle
+Green Hog,hitnrun.pv.026.greenhog,,2,"0,99",1,Green Hog,Green Hog Vehicle
+Blazing Heat,hitnrun.pv.027.blazingheat,,2,"1,99",2,Blazing Heat,Blazing Heat Vehicle
+Cool Flame,hitnrun.pv.028.coolflame,,2,"2,99",3,Cool Flame,Cool Flame Vehicle
+Amber Lance,hitnrun.pv.029.amberlance,,2,"0,99",1,Amber Lance,Amber Lance Vehicle
+Major Major,hitnrun.pv.030.majormajor,,2,"0,99",1,Major Major,Major Major Vehicle
+Mountain Goat,hitnrun.pv.031.mountaingoat,,2,"2,99",3,Mountain Goat,Mountain Goat Vehicle
+All Vehicles,hitnrun.pv.all,,2,"9,99",10,All Vehicles,Unlock All Vehicles
+Survival Mode,hitnrun.gm.survival,,2,"1,99",2,Survival Mode,Survival Mode
+Deflector Shield,hitnrun.pw.shielddeflector,,2,"4,99",5,Deflector Shield,Deflector Shield Powerup
+Super Bomb,hitnrun.pw.superbomb,,2,"1,99",2,Super Bomb,Super Bomb Powerup
+Bomb Magnet,hitnrun.pw.bombmagnet,,2,"3,99",4,Bomb Magnet,Bomb Magnet Powerup
+Super Tires,hitnrun.pw.supertires,,2,"2,99",3,Super Tires,Super Tires Powerup
+Coin Doubler,hitnrun.pw.coindoubler,,2,"0,99",1,Coin Doubler,Coin Doubler Powerup
+Deflector Shield Charges,hitnrun.pw.shielddeflector.100,,1,"4,99",5,Deflector Shield Charges,Deflector Shield Charges
+Super Bomb Charges,hitnrun.pw.superbomb.100,,1,"1,99",2,Super Bomb Charges,Super Bomb Charges
+Bomb Magnet Charges,hitnrun.pw.bombmagnet.100,,1,"3,99",4,Bomb Magnet Charges,Bomb Magnet Charges
+Super Tires Charges,hitnrun.pw.supertires.100,,1,"2,99",3,Super Tires Charges,Super Tires Charges
+Coin Doubler Charges,hitnrun.pw.coindoubler.100,,1,"0,99",1,Coin Doubler Charges,Coin Doubler Charges
+Endless Supply,hitnrun.fuel.endlessfuelsupply,,2,"9,99",10,Endless Supply,Endless Supply
+Starter Pack,hitnrun.offer.starterpack,,2,"8,99",9,Starter Pack,Starter Pack
